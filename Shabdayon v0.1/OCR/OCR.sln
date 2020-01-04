@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OCR", "OCR\OCR.vcproj", "{D57CD0F8-CE20-440C-915E-E56EB4F0C9A9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "contourfind", "contourfind\contourfind.vcproj", "{F3856326-4C89-4AE5-BFCB-9FB0A5615B80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D57CD0F8-CE20-440C-915E-E56EB4F0C9A9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D57CD0F8-CE20-440C-915E-E56EB4F0C9A9}.Debug|Win32.Build.0 = Debug|Win32
+		{D57CD0F8-CE20-440C-915E-E56EB4F0C9A9}.Release|Win32.ActiveCfg = Release|Win32
+		{D57CD0F8-CE20-440C-915E-E56EB4F0C9A9}.Release|Win32.Build.0 = Release|Win32
+		{F3856326-4C89-4AE5-BFCB-9FB0A5615B80}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F3856326-4C89-4AE5-BFCB-9FB0A5615B80}.Debug|Win32.Build.0 = Debug|Win32
+		{F3856326-4C89-4AE5-BFCB-9FB0A5615B80}.Release|Win32.ActiveCfg = Release|Win32
+		{F3856326-4C89-4AE5-BFCB-9FB0A5615B80}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
